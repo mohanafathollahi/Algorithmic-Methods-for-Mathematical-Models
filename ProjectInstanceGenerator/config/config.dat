@@ -1,0 +1,11 @@
+instancesDirectory = output;
+fileNamePrefix = medium2;
+fileNameExtension = dat;
+numInstances = 1;
+
+n = 10;
+e=14;
+
+m = 5;
+f=5;
+
